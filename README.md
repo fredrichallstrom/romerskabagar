@@ -17,6 +17,6 @@ Innehåller Mjölk, Sojabönor.
 Kan innehålla spår av Mandel, Hasselnöt.
 
 
-Se även [lakritskonfekt](../blob/master/konfekt.md)
+Se även [lakritskonfekt](../master/konfekt.md)
 
 Eller [denna] (https://github.com/fredrichallstrom/romerskabagar/blob/master/konfekt.md)
